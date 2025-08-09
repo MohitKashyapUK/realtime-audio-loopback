@@ -1,0 +1,8 @@
+{
+  "name": "Real-time Audio Loopback",
+  "description": "An application that captures your microphone audio and plays it back to you in real time.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
